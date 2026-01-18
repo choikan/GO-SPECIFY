@@ -14,13 +14,13 @@ from utils import load_favorites, calc_dday
 # Page Config
 # -----------------------------
 st.set_page_config(
-    page_title="GO - SPECITY",
+    page_title="GO - SPECIFY",
     page_icon="🏛",
     layout="wide",
 )
 
 ui.apply_global_styles()
-st.title("🏛️ GO - SPECITY")
+st.title("🏛️ GO - SPECIFY")
 
 st.markdown("""
 <style>
