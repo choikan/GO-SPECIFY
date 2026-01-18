@@ -87,9 +87,9 @@ GO-SPECIFY/
 DATA_GO_KR_KEY=YOUR_DATA_GO_KR_KEY
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY
 BASE_URL=https://apis.data.go.kr/1051000/recruitment
-2) 환경 설정
+3) 환경 설정
 pip install -r requirements.txt
-3) 실행
+4) 실행
 python -m streamlit run app.py
 
 ---
@@ -99,6 +99,7 @@ python -m streamlit run app.py
 - 서비스 초기 구조 설계
 - 자격증 및 시험 일정 데이터 전처리
 - RAG 기반 공고문 분석 로직 구현
+
 🔹 팀원 최ㅁㅁ
 - 서비스 전체 흐름 보완
 - 예외 처리 설계
