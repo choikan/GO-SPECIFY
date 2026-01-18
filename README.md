@@ -1,4 +1,5 @@
 # GO-SPECIFY
+
 ** 광운대학교 제 1회 파이썬 SW 활용 경진 대회 **
 **** 패트와 매트 팀 ****
 
@@ -68,13 +69,13 @@
 
 ## 📂 프로젝트 구조
 GO-SPECIFY/
-├─ app.py                      # Streamlit 메인 실행 파일
-├─ ui.py                       # UI 구성
-├─ services.py                 # 공고 분석 및 로드맵 생성 로직
-├─ utils.py                    # 공통 유틸 함수
-├─ config.py                   # 환경 설정
-├─ requirements.txt            # 라이브러리 목록
-├─ manual.txt                  # 사용 방법 안내
+├─ app.py
+├─ ui.py  
+├─ services.py 
+├─ utils.py 
+├─ config.py
+├─ requirements.txt 
+├─ manual.txt
 ├─ history_exam_dates_2026.csv
 ├─ toeic_exam_dates_2026.csv
 ├─ integrated_cert_roadmap2_2026.csv
