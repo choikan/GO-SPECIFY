@@ -68,18 +68,20 @@
 ---
 
 ## 📂 프로젝트 구조
+```text
 GO-SPECIFY/
 ├─ app.py
-├─ ui.py  
-├─ services.py 
-├─ utils.py 
+├─ ui.py
+├─ services.py
+├─ utils.py
 ├─ config.py
-├─ requirements.txt 
+├─ requirements.txt
 ├─ manual.txt
 ├─ history_exam_dates_2026.csv
 ├─ toeic_exam_dates_2026.csv
 ├─ integrated_cert_roadmap2_2026.csv
 └─ major_overview_4.csv
+
 
 ---
 
