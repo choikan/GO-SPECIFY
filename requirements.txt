@@ -1,0 +1,10 @@
+streamlit
+google-generativeai
+pandas
+python-dotenv
+requests
+reportlab
+langchain
+langchain-community
+pypdf
+langchain-google-genai

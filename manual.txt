@@ -1,0 +1,5 @@
+1. 환경 설치
+    pip install -r requirements.txt
+
+2. 실행 (터미널)
+    python -m streamlit run app.py
