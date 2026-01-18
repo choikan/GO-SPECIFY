@@ -81,11 +81,12 @@ GO-SPECIFY/
 ├─ toeic_exam_dates_2026.csv
 ├─ integrated_cert_roadmap2_2026.csv
 └─ major_overview_4.csv
-
+```
 
 ---
 
 ## 🚀 실행 방법
+```text
 1) .env 생성 
 DATA_GO_KR_KEY=YOUR_DATA_GO_KR_KEY
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY
@@ -94,6 +95,7 @@ BASE_URL=https://apis.data.go.kr/1051000/recruitment
 pip install -r requirements.txt
 4) 실행
 python -m streamlit run app.py
+```
 
 ---
 
